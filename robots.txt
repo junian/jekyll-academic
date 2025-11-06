@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.junian.dev/jekyll-academic/sitemap.xml
+Sitemap: /sitemap.xml
